@@ -1,7 +1,7 @@
 {
   "name": "github-finder-react",
   "version": "0.1.0",
-  "homepage": "https://ZachBach.github.io/react-gh-pages",
+  "homepage": "https://ZachBach.github.io/github-finder-react",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
