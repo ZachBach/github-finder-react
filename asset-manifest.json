@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b94cd51.chunk.css",
-    "main.js": "/static/js/main.d5676987.chunk.js",
-    "main.js.map": "/static/js/main.d5676987.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.97bef3b9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.97bef3b9.js.map",
-    "static/js/2.2f945018.chunk.js": "/static/js/2.2f945018.chunk.js",
-    "static/js/2.2f945018.chunk.js.map": "/static/js/2.2f945018.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0839a9a663c80ff8c6f7cac3e864cf81.js": "/precache-manifest.0839a9a663c80ff8c6f7cac3e864cf81.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8b94cd51.chunk.css.map": "/static/css/main.8b94cd51.chunk.css.map",
-    "static/js/2.2f945018.chunk.js.LICENSE.txt": "/static/js/2.2f945018.chunk.js.LICENSE.txt",
-    "static/media/spinner.gif": "/static/media/spinner.baeaf0c7.gif"
+    "main.css": "/github-finder-react/static/css/main.8b94cd51.chunk.css",
+    "main.js": "/github-finder-react/static/js/main.ab994e49.chunk.js",
+    "main.js.map": "/github-finder-react/static/js/main.ab994e49.chunk.js.map",
+    "runtime-main.js": "/github-finder-react/static/js/runtime-main.0846b5e1.js",
+    "runtime-main.js.map": "/github-finder-react/static/js/runtime-main.0846b5e1.js.map",
+    "static/js/2.a1ea335f.chunk.js": "/github-finder-react/static/js/2.a1ea335f.chunk.js",
+    "static/js/2.a1ea335f.chunk.js.map": "/github-finder-react/static/js/2.a1ea335f.chunk.js.map",
+    "index.html": "/github-finder-react/index.html",
+    "precache-manifest.f217f01c88761f7bc398b2ed4522079a.js": "/github-finder-react/precache-manifest.f217f01c88761f7bc398b2ed4522079a.js",
+    "service-worker.js": "/github-finder-react/service-worker.js",
+    "static/css/main.8b94cd51.chunk.css.map": "/github-finder-react/static/css/main.8b94cd51.chunk.css.map",
+    "static/js/2.a1ea335f.chunk.js.LICENSE.txt": "/github-finder-react/static/js/2.a1ea335f.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/github-finder-react/static/media/spinner.baeaf0c7.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.97bef3b9.js",
-    "static/js/2.2f945018.chunk.js",
+    "static/js/runtime-main.0846b5e1.js",
+    "static/js/2.a1ea335f.chunk.js",
     "static/css/main.8b94cd51.chunk.css",
-    "static/js/main.d5676987.chunk.js"
+    "static/js/main.ab994e49.chunk.js"
   ]
 }
